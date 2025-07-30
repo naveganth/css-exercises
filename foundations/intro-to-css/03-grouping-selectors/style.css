@@ -1,6 +1,7 @@
-.b1, .b2{
+.b1,
+.b2 {
   font-size: 28px;
-  font-family: Helvetica, 'Times New Roman', sans-serif;
+  font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
 .b1 {
@@ -8,6 +9,6 @@
   color: rgb(255, 255, 255);
 }
 
-.b2{
+.b2 {
   background-color: rgb(255, 255, 0);
 }
