@@ -21,5 +21,8 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 
 ### Self Check
 - Do the odd numbered `p` elements share a class?
+Yes, they all have the same "odd-number" class.
 - Do the even numbered `div` elements have unique IDs?
+Yes, number 2 has the id `"n2"` and number 4 has the id `"n4"`.
 - Does the Number 3 element have multiple classes?
+Yes, it has odd-number and n3;
