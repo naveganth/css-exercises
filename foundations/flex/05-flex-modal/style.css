@@ -96,8 +96,3 @@ button.cancel {
   font-size: large;
   font-weight: bold;
 }
-
-.container2 {
-  display: flex;
-  gap: 8px;
-}
